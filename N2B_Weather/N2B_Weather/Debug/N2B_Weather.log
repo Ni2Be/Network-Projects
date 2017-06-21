@@ -1,0 +1,2 @@
+﻿  main.cpp
+d:\programmieren\network\projekte\n2b_weather\n2b_weather\main.cpp(12): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "asio.hpp": No such file or directory

@@ -1,0 +1,48 @@
+City:		
+Weather:	
+		
+Temperature:	-nan C
+Wind:		0.00 m/s 
+Rain last 3h:	0.00
+
+
+City:		
+Weather:	
+		
+Temperature:	-nan C
+Wind:		0.00 m/s 
+Rain last 3h:	0.00
+
+
+City:		Mc Henry
+Weather:	Clouds
+		broken clouds
+Temperature:	22.63 C
+Wind:		3.60 m/s West
+Rain last 3h:	0.00
+
+
+City:		
+Weather:	
+		
+Temperature:	-nan C
+Wind:		0.00 m/s 
+Rain last 3h:	0.00
+
+
+City:		Grapeland
+Weather:	Clear
+		clear sky
+Temperature:	26.24 C
+Wind:		4.60 m/s North
+Rain last 3h:	0.00
+
+
+City:		Anahuac
+Weather:	Clouds
+		overcast clouds
+Temperature:	26.14 C
+Wind:		8.70 m/s North
+Rain last 3h:	0.00
+
+
