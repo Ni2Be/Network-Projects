@@ -1,10 +1,9 @@
-﻿  main.cpp
-  NB_Weather_Client.cpp
-  NB_Weather_Data.cpp
+﻿  NB_Weather_Client.cpp
+  main.cpp
   Code wird generiert.
-  1551 of 1558 functions (99.6%) were compiled, the rest were copied from previous compilation.
-    38 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
+  382 of 1641 functions (23.3%) were compiled, the rest were copied from previous compilation.
+    129 functions were new in current compilation
+    204 functions had inline decision re-evaluated but remain unchanged
   Codegenerierung ist abgeschlossen.
   N2B_Weather.vcxproj -> D:\Programmieren\Network\Network-Projects\N2B_Weather\x64\Release\N2B_Weather.exe
   N2B_Weather.vcxproj -> D:\Programmieren\Network\Network-Projects\N2B_Weather\x64\Release\N2B_Weather.pdb (Full PDB)

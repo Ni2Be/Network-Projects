@@ -120,6 +120,9 @@
     <ClInclude Include="NB_Weather_Client.h" />
     <ClInclude Include="NB_Weather_Data.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="save_file.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

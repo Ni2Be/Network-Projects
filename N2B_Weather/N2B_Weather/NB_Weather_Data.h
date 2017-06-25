@@ -7,33 +7,37 @@
 
 class NB_Weather_Data
 {
+	friend std::ostream& operator<<(std::ostream& os, NB_Weather_Data& data);
 public:
+	struct Weather
+		{
+			std::string main_weather;
+			std::string description;
+		};
+
+	   struct Wind
+	   {
+		   double		speed;
+		   double		direction;
+		   std::string	direction_name;
+	   };
+
 	NB_Weather_Data() {}
 	NB_Weather_Data(const std::string http_get_data, const std::string zip);
 	
-	std::string zip_;
-	std::string city_;
-	double temperature_;
-	int cloud_count_;
-	double last_3h_rain;
+	std::string		zip_;
+	std::string		city_;
+	double			temperature_;
+	int				cloud_count_;
+	double			last_3h_rain;
+	Weather			weather_;
+	Wind			wind_;
 
-	struct Weather
-	{
-		std::string main_weather;
-		std::string description;
-	} weather_;
+	
 
-	struct Wind
-	{
-		double speed;
-		double direction;
-		std::string direction_name;
-	} wind_;
-
-	friend std::ostream& operator<<(std::ostream& os, NB_Weather_Data& data);
 private:
-	NB_Weather_Data& operator<<(const std::string right);
-	std::string degree_to_string(double degree);
+	NB_Weather_Data&	operator<<(const std::string right);
+	std::string			degree_to_string(double degree);
 };
 
 std::ostream& operator<<(std::ostream& os, NB_Weather_Data& data);

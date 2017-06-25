@@ -1,48 +1,24 @@
-City:		
-Weather:	
-		
-Temperature:	-nan C
-Wind:		0.00 m/s 
-Rain last 3h:	0.00
-
-
-City:		
-Weather:	
-		
-Temperature:	-nan C
-Wind:		0.00 m/s 
-Rain last 3h:	0.00
-
-
-City:		Mc Henry
+City:		Gummersbach
 Weather:	Clouds
-		broken clouds
-Temperature:	22.63 C
-Wind:		3.60 m/s West
+			broken clouds
+Temperature:	19.99 C
+Wind:			4.10 m/s West
 Rain last 3h:	0.00
 
 
-City:		
-Weather:	
-		
-Temperature:	-nan C
-Wind:		0.00 m/s 
-Rain last 3h:	0.00
-
-
-City:		Grapeland
-Weather:	Clear
-		clear sky
-Temperature:	26.24 C
-Wind:		4.60 m/s North
-Rain last 3h:	0.00
-
-
-City:		Anahuac
+City:		Aachen
 Weather:	Clouds
-		overcast clouds
-Temperature:	26.14 C
-Wind:		8.70 m/s North
+			broken clouds
+Temperature:	21.00 C
+Wind:			5.10 m/s South West
+Rain last 3h:	0.00
+
+
+City:		Schleiden
+Weather:	Clouds
+			broken clouds
+Temperature:	20.83 C
+Wind:			5.70 m/s South West
 Rain last 3h:	0.00
 
 
