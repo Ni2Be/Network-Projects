@@ -24,7 +24,7 @@ using asio::ip::tcp;
 const std::string k_open_wether_url = "api.openweathermap.org";
 const std::string k_open_wether_path = "/data/2.5/weather";
 const std::string k_open_wether_key = "&APPID=88ec1eac36032997dd5ff32aa0a95aa7"; 
-// yes this is my code, but its free. Use it for test purposes, 
+// yes this is my key, but its free. Use it for test purposes, 
 // or go to openweathermap.org and get your own.
 
 
